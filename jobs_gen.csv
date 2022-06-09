@@ -1,0 +1,201 @@
+company_name,n_positions,location,n_de,n_bi,n_mle,n_ds,start_day,end_day
+Harvey Nash,4.0,Haarlem,1,1,1,1,54,319
+Alliander,3.0,Almere,0,2,0,1,148,260
+Royal HaskoningDHV,4.0,Tilburg,2,2,0,0,308,358
+Vopak,6.0,Almere,1,3,0,2,136,317
+Abbott,3.0,Amsterdam,0,1,1,1,201,218
+ArboNed,3.0,Amsterdam,1,1,1,0,312,338
+Exact,6.0,Arnhem,0,1,2,3,116,302
+NS,4.0,Arnhem,1,2,1,0,153,329
+Verkade,3.0,Haarlem,1,1,1,0,290,297
+McDonalds,4.0,Den Bosch,1,2,1,0,62,202
+Marel,3.0,Den Haag,1,0,1,1,243,285
+Vopak,3.0,Den Haag,0,1,2,0,24,202
+Aebi Schmidt Nederland,4.0,Apeldoorn,1,0,0,3,89,316
+Ohra Verzekeringen,2.0,Groningen,1,0,0,1,74,263
+Deloitte,2.0,Almere,0,0,0,2,293,342
+Optiver,3.0,Apeldoorn,0,1,0,2,209,346
+TomTom,2.0,Enschede,1,0,0,1,346,356
+Rockwool,4.0,Amsterdam,2,0,0,2,16,72
+Ikea,2.0,Rotterdam,1,0,0,1,127,203
+Agrifirm,2.0,Amsterdam,0,0,0,2,250,302
+Nutreco,6.0,Den Haag,1,2,1,2,178,308
+Telegraaf Media Group,3.0,Amsterdam,0,2,1,0,181,220
+Conclusion,3.0,Rotterdam,0,2,0,1,151,338
+Vos Logistics,2.0,Den Haag,0,1,0,1,24,298
+Randstad,3.0,Amsterdam,0,2,0,1,179,310
+Crucell,3.0,Den Haag,1,1,1,0,197,218
+NXP,2.0,Amsterdam,2,0,0,0,343,362
+Van Gansewinkel,4.0,Amsterdam,0,1,2,1,160,247
+Meyn,3.0,Arnhem,2,1,0,0,176,298
+Gamma,3.0,Amsterdam,2,0,0,1,284,342
+Ohra Verzekeringen,3.0,Amsterdam,0,2,1,0,62,345
+Baker Tilly Berk,7.0,Den Haag,2,2,1,2,149,272
+Dell,3.0,Nijmegen,0,1,2,0,153,246
+Rochdale,2.0,Amsterdam,1,1,0,0,155,201
+Dümmen Orange,5.0,Eindhoven,1,1,3,0,48,226
+Bosch Rexroth,2.0,Amsterdam,0,2,0,0,336,364
+Nedschroef,4.0,Amsterdam,1,2,1,0,83,100
+Libéma,2.0,Den Haag,0,1,1,0,176,247
+Ahold,2.0,Den Haag,0,1,0,1,147,281
+Ten Brinke Groep,3.0,Groningen,1,0,1,1,117,162
+Thomas Cook Nederland,4.0,Almere,0,3,1,0,341,352
+Binck bank,3.0,Maastricht,1,1,1,0,62,101
+Beter Bed,3.0,Den Haag,0,2,1,0,188,204
+TomTom,3.0,Amsterdam,2,1,0,0,359,364
+Pathé Bioscopen,2.0,Apeldoorn,0,1,1,0,48,304
+Bosch Rexroth,2.0,Amsterdam,1,1,0,0,326,344
+Schiphol,3.0,Rotterdam,1,2,0,0,256,329
+Boskalis,5.0,Amsterdam,1,2,1,1,223,269
+Agio Cigars,4.0,Amsterdam,0,2,0,2,140,250
+Bureau Veritas,2.0,Leeuwarden,1,0,0,1,214,260
+McDonalds,4.0,Arnhem,1,0,2,1,210,364
+Agrifirm,3.0,Tilburg,3,0,0,0,317,323
+Holland Trading,2.0,Rotterdam,1,0,1,0,31,286
+Nederlandse Publieke Omroep,4.0,Amsterdam,1,1,1,1,157,218
+ASM International,5.0,Amsterdam,3,1,0,1,284,298
+Reesink,5.0,Amsterdam,0,2,2,1,304,359
+Ardagh Group,2.0,Den Haag,0,0,2,0,285,293
+Altran,3.0,Almere,0,2,1,0,143,348
+PostNL,4.0,Groningen,2,0,2,0,18,76
+SDU uitgevers,5.0,Amsterdam,2,0,1,2,17,317
+TenneT,3.0,Leeuwarden,3,0,0,0,256,351
+NTS Group,3.0,Almere,2,0,1,0,77,90
+Olympia uitzendbureau,2.0,Den Haag,0,0,2,0,174,344
+Booking.com,2.0,Eindhoven,1,0,1,0,193,235
+Havenbedrijf Rotterdam,5.0,Rotterdam,1,2,0,2,112,266
+PepsiCo,6.0,Amsterdam,2,0,3,1,113,351
+Loyens & Loeff,3.0,Amsterdam,0,3,0,0,221,329
+Rituals,5.0,Nijmegen,2,1,0,2,165,251
+Holland & Barrett,4.0,Amsterdam,0,1,0,3,318,333
+De Brauw Blackstone Westbroek,2.0,Amsterdam,1,1,0,0,131,273
+Pink Elephant,4.0,Amsterdam,2,2,0,0,263,323
+De Goudse Verzekeringen,6.0,Amsterdam,1,0,4,1,54,228
+TBI,3.0,Haarlem,0,1,2,0,358,363
+Thales,6.0,Almere,1,0,3,2,130,191
+Tech Data Nederland,1.0,Rotterdam,0,0,0,1,287,349
+Delta Lloyd,5.0,Amsterdam,0,1,0,4,265,308
+NSI N.V.,3.0,Den Haag,0,0,2,1,161,198
+Heerema,3.0,Rotterdam,0,1,1,1,86,110
+KarweiVaro Energy,3.0,Amsterdam,2,1,0,0,54,98
+BMW Nederland,2.0,Rotterdam,0,0,2,0,287,353
+Coca-Cola,3.0,Rotterdam,1,2,0,0,177,318
+Staples Nederland,4.0,Eindhoven,2,1,0,1,348,353
+Essent,6.0,Groningen,1,4,0,1,7,206
+Vitol,3.0,Amsterdam,3,0,0,0,320,359
+DSW Zorgverzekeraar,2.0,Rotterdam,1,1,0,0,312,329
+Rituals,3.0,Eindhoven,1,1,1,0,246,332
+Ford Nederland,5.0,Den Haag,1,3,1,0,322,358
+Telegraaf Media Group,4.0,Haarlem,2,0,1,1,254,360
+Raben Group,3.0,Groningen,0,0,2,1,327,344
+Heijmans,4.0,Amsterdam,1,2,0,1,53,63
+Holland Trading,3.0,Amsterdam,0,2,0,1,248,296
+Bosch Rexroth,5.0,Groningen,0,1,3,1,238,303
+Acomo,2.0,Amsterdam,0,0,1,1,228,355
+Sogeti,3.0,Den Haag,3,0,0,0,66,328
+Bruna,3.0,Zwolle,1,0,1,1,50,239
+GlaxoSmithKline,2.0,Den Haag,1,0,0,1,96,160
+HEMA,4.0,Rotterdam,2,1,1,0,91,262
+Veen Bosch & Keuning Uitgeversgroep,4.0,Groningen,0,0,3,1,263,296
+Greenchoice,3.0,Rotterdam,1,0,2,0,290,350
+Bakker Logistiek,3.0,Den Haag,0,0,2,1,95,109
+DuPont Nederland,2.0,Zwolle,1,1,0,0,87,212
+Vanderlande,3.0,Rotterdam,2,0,1,0,77,201
+Gamma,3.0,Leeuwarden,0,0,2,1,287,314
+Janssen de Jong Groep,2.0,Enschede,0,1,1,0,119,250
+Kropman Installatietechniek,3.0,Amsterdam,1,1,0,1,301,358
+Honeywell,4.0,Amsterdam,0,2,2,0,164,222
+The Greenery,7.0,Amsterdam,3,3,0,1,181,251
+BESI,3.0,Amsterdam,0,1,0,2,222,341
+Sogeti,4.0,Amsterdam,1,2,1,0,310,340
+PwC,3.0,Tilburg,1,0,1,1,6,190
+Novartis,2.0,Amsterdam,1,0,1,0,329,337
+NTS Group,3.0,Amsterdam,1,0,1,1,262,270
+ArboNed,3.0,Haarlem,0,1,0,2,160,166
+HEMA,10.0,Amsterdam,4,2,2,2,150,359
+Bacardi Nederland,3.0,Arnhem,0,1,1,1,84,249
+Holland Trading,4.0,Amsterdam,1,3,0,0,146,247
+Constellium,3.0,Amsterdam,1,2,0,0,111,126
+Sulzer,2.0,Tilburg,2,0,0,0,35,136
+Harvey Nash,5.0,Eindhoven,1,0,2,2,284,357
+Cefetra,4.0,Haarlem,3,0,1,0,187,302
+Woonzorg Nederland,5.0,Almere,0,1,3,1,81,217
+Dell,2.0,Apeldoorn,0,0,2,0,1,38
+Kuijpers,6.0,Amsterdam,1,1,1,3,302,350
+Allianz Nederland Groep,2.0,Amsterdam,1,0,0,1,196,314
+Peak-IT,4.0,Almere,0,0,2,2,10,275
+Avery Dennison,9.0,Apeldoorn,5,2,1,1,233,288
+BMC,2.0,Emmen,1,0,1,0,194,326
+Arcadis,3.0,Rotterdam,1,0,1,1,118,187
+Canon,3.0,Rotterdam,0,1,1,1,19,238
+Jan Linders Supermarkten,3.0,Nijmegen,2,1,0,0,260,275
+Rockwool,2.0,Amsterdam,1,0,0,1,292,357
+Thomas Cook Nederland,3.0,Den Bosch,0,1,1,1,255,268
+Nyrstar holding,2.0,Haarlem,0,1,0,1,221,351
+Acer,4.0,Rotterdam,1,1,1,1,225,323
+FrieslandCampina,2.0,Almere,1,0,0,1,52,258
+Hanos,6.0,Nijmegen,2,1,2,1,354,364
+VDL Group,2.0,Amsterdam,0,1,1,0,341,363
+Continental Bakeries,3.0,Enschede,1,1,1,0,279,339
+Hermes Partners,5.0,Den Haag,2,1,1,1,80,270
+NIBC Bank,2.0,Arnhem,1,0,0,1,201,325
+Syntus,4.0,Amsterdam,2,1,0,1,157,366
+Nedap,6.0,Enschede,0,4,1,1,119,352
+Nyrstar holding,2.0,Rotterdam,0,1,1,0,58,116
+VDL Group,3.0,Amsterdam,1,0,1,1,214,291
+Mitsubishi,4.0,Enschede,1,0,3,0,127,133
+Univé Groep,5.0,Amsterdam,1,2,0,2,223,282
+Lannoo Meulenhoff,2.0,Amsterdam,2,0,0,0,208,280
+Interfood Group,2.0,Zwolle,0,1,0,1,114,341
+Sligro,4.0,Zwolle,1,1,1,1,208,275
+Glencore Grain,4.0,Den Haag,0,1,2,1,13,299
+Van Drie Group,4.0,Groningen,1,0,0,3,8,161
+FloraHolland,4.0,Rotterdam,0,2,1,1,39,215
+PostNL,2.0,Amsterdam,1,1,0,0,236,266
+NS,4.0,Amsterdam,1,1,1,1,280,355
+Plieger,4.0,Tilburg,0,2,2,0,358,369
+Pearle,2.0,Nijmegen,2,0,0,0,200,267
+Crucell,7.0,Apeldoorn,3,3,0,1,245,311
+Menzis,4.0,Apeldoorn,0,0,1,3,277,352
+Starbucks,2.0,Amsterdam,1,0,0,1,234,260
+Mainfreight,4.0,Den Haag,1,2,1,0,3,203
+ITM Group,2.0,Amsterdam,0,0,2,0,153,328
+BCC,5.0,Den Haag,0,4,1,0,28,326
+Hendrix Genetics,5.0,Rotterdam,2,1,2,0,108,324
+HTM,2.0,Enschede,0,0,0,2,97,353
+Stage Entertainment,5.0,Amsterdam,2,0,3,0,214,223
+Delta Lloyd,4.0,Amsterdam,0,0,3,1,292,309
+Dell,5.0,Amsterdam,1,0,2,2,74,343
+Witteveen+Bos,8.0,Nijmegen,1,3,2,2,325,354
+In Person,3.0,Eindhoven,1,2,0,0,145,241
+Fokker,2.0,Amsterdam,0,2,0,0,127,261
+Voortman Steel Group,2.0,Amsterdam,0,0,2,0,340,348
+Mazars,2.0,Almere,1,1,0,0,41,275
+Van Leeuwen Buizen,3.0,Amsterdam,2,0,0,1,355,361
+Primark,4.0,Arnhem,2,1,1,0,40,108
+Dura Vermeer,4.0,Almere,2,2,0,0,33,171
+Bavaria,5.0,Amsterdam,0,1,2,2,16,353
+De Goudse Verzekeringen,3.0,Amsterdam,0,0,1,2,164,203
+Binck bank,6.0,Emmen,0,3,1,2,152,337
+E.On,3.0,Rotterdam,1,1,0,1,75,272
+Flynth Adviseurs en Accountants,11.0,Rotterdam,1,1,6,3,86,342
+TomTom,4.0,Arnhem,2,0,1,1,116,193
+Vinci Energies,2.0,Zwolle,2,0,0,0,341,360
+DHL,2.0,Maastricht,0,0,1,1,26,320
+NAM,4.0,Nijmegen,2,0,2,0,312,348
+Archer Daniels Midland Nederland,3.0,Rotterdam,1,1,0,1,286,342
+Vinci Energies,4.0,Amsterdam,2,1,0,1,133,301
+Aalberts Industries,4.0,Nijmegen,0,1,1,2,218,328
+Brabant Alucast,3.0,Den Haag,0,0,1,2,167,174
+USG People,2.0,Rotterdam,0,0,0,2,97,292
+Enza Zaden,2.0,Den Bosch,0,1,0,1,267,286
+Primark,3.0,Amsterdam,0,1,0,2,236,257
+Hermes Partners,5.0,Den Haag,1,1,2,1,308,346
+KLM,4.0,Amsterdam,2,1,1,0,172,270
+Flynth Adviseurs en Accountants,2.0,Rotterdam,1,1,0,0,189,197
+Perfetti Van Melle,3.0,Amsterdam,1,1,0,1,121,191
+Unilever,4.0,Amsterdam,1,1,2,0,45,66
+Kropman Installatietechniek,2.0,Amsterdam,0,2,0,0,63,266
+Thales,3.0,Groningen,2,0,0,1,129,172
+Booking.com,3.0,Almere,1,1,1,0,309,341
+DSV,2.0,Den Haag,0,1,1,0,192,356
